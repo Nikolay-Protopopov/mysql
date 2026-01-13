@@ -62,7 +62,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Название таблицы | Название первичного ключа
 customer         | customer_id
-![Task1](screenshots/exel.png)
+![Task1](screenshots/excel.png)
 ### Задание 3
 3.1. Уберите у пользователя sys_temp права на внесение, изменение и удаление данных из базы sakila.
 
